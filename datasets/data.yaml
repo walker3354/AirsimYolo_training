@@ -1,0 +1,7 @@
+path: C:\Users\walker\Desktop\yolo training\datasets
+train: .\train\
+val: .\valid\
+test: 
+
+nc: 1
+names: ['ball']
